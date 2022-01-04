@@ -1,0 +1,46 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
+body{
+    font-family: 'Roboto', sans-serif;
+    text-align: center;
+    margin-top: 200px;
+    margin-bottom: 200px;
+    margin-left: 200px;
+    margin-right: 200px;
+    background-image: url(https://variety.com/wp-content/uploads/2021/06/Roblox-sued-by-NMPA.png?w=681&h=383&crop=1);
+    background-size: 1525px;
+    background-repeat: no-repeat;
+    background-color: black;
+}
+
+
+.brand-title{
+    font-family: 'Roboto', sans-serif;
+    font-size: 50px;
+    color: rgb(255, 255, 255);
+}
+
+label{
+    font-size: 20px;
+    color: rgb(255, 255, 255);
+
+}
+
+button{
+    margin-top: 50px;
+    margin-bottom: 500px;
+    margin-left: 10;
+    margin-right: 10px;
+    width: 200px;
+    height: 40px;
+    font-size: 20px;
+    font-family: 'Roboto', sans-serif;
+    color: black;
+    background:rgb(219, 240, 255);
+    border-radius: 50px;
+}
+
+iput::placeholder{
+    background-color: rgb(203, 221, 255);
+    border-radius: 50px;
+}
